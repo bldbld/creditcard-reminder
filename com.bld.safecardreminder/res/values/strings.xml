@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common -->
+    <string name="app_name">信用卡提醒助手</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- Default values of UI -->
+    <string name="default_card_title">Hello world!</string>
+    <string name="default_card_desc">Hello world!</string>
+    <!-- Activity name -->
+    <string name="title_activity_card_list">CardListActivity</string>
+    <string name="title_activity_card_detail">CardDetailActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <!-- Activity title -->
+    <string name="title_activity_card_list_activitytitle">卡片列表</string>
+    <string name="title_activity_setting_activitytitle">设置</string>
+    <string name="title_activity_create_card_activitytitle">新增卡片</string>
+    <string name="title_activity_remind_activitytitle">信用卡提醒助手</string>
+    <!-- Remind Acvity Context Name -->
+    <string name="title_activity_remind_contexttitle">提醒选项</string>
+    <string name="title_activity_remind_context_paid">已还款</string>
+    <!-- Card Desc -->
+    <!-- Default Value -->
+    <string name="default_card_name">未命名卡片</string>
+    <string name="default_card_billingday">1</string>
+    <string name="default_card_payperiod">10</string>
+    <string name="default_setting_string">5</string>
+    <!-- COLORS -->
+    <!-- BANK CODE 银行列表 -->
+    <string name="bank_str_bankcomm">bankcomm</string>
+    <string name="bank_str_cmb">cmb</string>
+    <string name="bank_title_bankcomm">交通银行</string>
+    <string name="bank_title_cmb">招商银行</string>
+
+</resources>
