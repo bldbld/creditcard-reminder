@@ -1,4 +1,4 @@
 # creditcard-reminder
-这是一个信用卡提醒工具：
-第一阶段：实现信用卡的提醒功能和管理
-第二阶段：开放接口支持账单来源
+This is a credit card reminder tool:
+Stage I: realize the reminder function and management of credit card
+Stage II: open interface to support bill source
